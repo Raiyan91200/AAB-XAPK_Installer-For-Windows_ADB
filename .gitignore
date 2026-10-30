@@ -1,0 +1,10 @@
+# Generated install output and logs
+aab-install-output/
+*.log
+*.apks
+
+# Saved UI settings (contains keystore passwords)
+aab-install-ui.config.json
+
+# Local Claude settings
+.claude/settings.local.json
